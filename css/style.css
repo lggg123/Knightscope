@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    border: 8px solid rgba(0,0,0,0.6);
+}
+
+header {
+    background: url(../img/backgroundknight.png);
+    height: 980px;
+}
+
+h1 {
+    font-family: 'PT Mono', monospace;
+    font-size: 120px;
+    color:  #0C1214;
+    padding-top: 400px;
+}
+
+.main-site {
+    margin-top: 50px;
+    font-family: 'PT Mono', monospace;
+}
+
+.members {
+    padding-bottom: 70px;
+}
+
+h2 {
+    padding: 50px;
+}
+
+img {
+    width: 40%;
+    border-radius: 25px;
+}
+
+footer {
+    padding: 20px;
+}
